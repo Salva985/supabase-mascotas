@@ -22,13 +22,14 @@ Este proyecto muestra cómo crear y relacionar dos tablas en **Supabase**:
 
 ## 📸 Capturas de pantalla
 
-En la carpeta [`/screenshots`](./screenshots) están las imágenes de la configuración de las tablas en Supabase.
+### Tabla Usuarios
+![Usuarios](./screenshots/Users.png)
 
-Ejemplo:
+### Tabla Mascota
+![Mascota](./screenshots/Mascota.png)
 
-- Tabla `usuarios`
-- Tabla `mascota` con relación
-- Inserción de datos
+### Consulta de Usuarios y Mascotas
+![Relación](./screenshots/RetriveAllUser&Mascota.png)
 
 ## 🚀 Pasos realizados
 
